@@ -3,7 +3,7 @@
 Use Pycharm Please~
 
 
-This Project use konlpy.
+This Project uses konlpy.
 
 I recommend you using venv in this repo or Python 3.7
 
