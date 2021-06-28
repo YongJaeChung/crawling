@@ -1,7 +1,6 @@
 # crawling
 
-Use Pycharm Please~
-
+Use Pycharm Please.
 
 This Project uses konlpy.
 
